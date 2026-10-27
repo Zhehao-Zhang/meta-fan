@@ -4,7 +4,7 @@ This repository contains a **method-focused, runnable implementation of Meta-FAN
 
 > **Meta-FAN: Building Energy Forecasting via Few-Shot Feature-Wise Adaptation**  
 > Zhehao Zhang, Jiacheng Cui, Gengjie Huang, Ji Bian, Chunyang Zuo, and Guoming Tang.  
-> *Energy* (accepted, October 2026). [Publication listing](https://guomingtang.github.io/publications/)
+> *Energy* (accepted, October 2026). 
 
 The public code is intentionally limited to the **core Meta-FAN architecture and its training/adaptation pipeline**. It is a compact technical implementation of the proposed method, **not a release of the complete experimental environment or the artifacts used to produce the paper's reported results**.
 
